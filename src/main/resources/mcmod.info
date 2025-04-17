@@ -1,0 +1,9 @@
+[
+{
+  "modid": "objmod",
+  "name": "OBJ Model Loader & Renderer",
+  "description": "Utility mod for loading and render OBJ models",
+  "version": "${version}",
+  "mcversion": "${mcversion}"
+}
+]

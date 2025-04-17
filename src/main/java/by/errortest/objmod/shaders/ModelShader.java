@@ -51,7 +51,9 @@ public class ModelShader extends ShaderProgram {
 
     @Override
     protected void bindAttributes() {
-
+        bindAttribute(0, "in_position");
+        bindAttribute(1, "in_textureCords");
+        bindAttribute(2, "in_normal");
     }
 
 }
